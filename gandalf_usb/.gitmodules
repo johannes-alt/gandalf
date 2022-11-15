@@ -1,0 +1,6 @@
+[submodule "amc_tools"]
+	path = amc_tools
+	url = git@pcfr30.physik.uni-freiburg.de:matthias.gorzellik/amc_tools.git
+[submodule "sweep_tools"]
+	path = sweep_tools
+	url = git@pcfr30.physik.uni-freiburg.de:philipp/sweep_tools.git
